@@ -1,2 +1,3 @@
 dadadada
+pull: Lấy nội dung của remote repository
 commit: Lưu lại trạng thái của index
